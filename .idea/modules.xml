@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HomeWorks/HomeWorks.iml" filepath="$PROJECT_DIR$/HomeWorks/HomeWorks.iml" />
       <module fileurl="file://$PROJECT_DIR$/PatikaDevJava102.iml" filepath="$PROJECT_DIR$/PatikaDevJava102.iml" />
       <module fileurl="file://$PROJECT_DIR$/maceraOyunu/maceraOyunu.iml" filepath="$PROJECT_DIR$/maceraOyunu/maceraOyunu.iml" />
     </modules>
