@@ -1,6 +1,5 @@
-package ListClass;
+package genericListClass;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class GenericList<T> {

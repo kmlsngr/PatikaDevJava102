@@ -1,6 +1,4 @@
-package ListClass;
-
-import java.util.Arrays;
+package genericListClass;
 
 public class Main {
     public static void main(String[] args) {
